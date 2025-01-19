@@ -1,0 +1,4 @@
+name: Core
+version: '${project.version}'
+main: net.featherstick.core.main
+api-version: '1.21'
