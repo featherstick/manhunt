@@ -1,4 +1,9 @@
-name: Core
+name: Manhunt
 version: '${project.version}'
-main: net.featherstick.core.main
+main: net.featherstick.manhunt.main
 api-version: '1.21'
+commands:
+  compass:
+    description: gibt dem spieler einen Compass
+  setrunner:
+    description: setzt den Runner
